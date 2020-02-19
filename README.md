@@ -1,2 +1,2 @@
 
-BManga redirect
+# BManga redirect
