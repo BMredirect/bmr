@@ -1,2 +1,2 @@
-# bmr
+
 BManga redirect
