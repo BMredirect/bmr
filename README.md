@@ -1,3 +1,4 @@
-# bmredirect.github.io
+bmredirect.github.io
 ==========
 BManga redirect
+----------
