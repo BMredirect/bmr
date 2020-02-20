@@ -1,4 +1,4 @@
-bmredirect.github.io
+BManga Redirect
 ==========
-BManga redirect
+并没啥用的跳转功能
 ----------
